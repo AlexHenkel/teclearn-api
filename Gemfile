@@ -44,3 +44,5 @@ gem 'rabl', '0.13.1'
 gem 'oj', '3.3.9'
 
 gem 'draper', '3.0.1'
+
+gem 'dotenv-rails', groups: [:development, :test]
